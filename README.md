@@ -1,5 +1,5 @@
 # Arrastreitor 2mil
-Programa experimentalaaaa escrito en lenguaje PureBasic para intentar aumentar mi productividad.
+Programa experimental escrito en lenguaje PureBasic para intentar aumentar mi productividad.
 
 He creado esta estructura de un ejecutable para poder disponer en mi trabajo de muchos recursos que uso continuamente en hojas de cálculo, correos electrónicos, calculadora, etc. Así mismo; creo que podría combinarlo con futuros programas, todo con idea de ahorrar tiempo en tareas cotidianas.
 
